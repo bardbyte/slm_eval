@@ -23,7 +23,7 @@ This repository provides a Python-based benchmarking tool for evaluating pre-tra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/benchmarking-tool.git
+   git clone https://github.com/bardbyte/slm_eval.git
    cd benchmarking-tool
    ```
 
